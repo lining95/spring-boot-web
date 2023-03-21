@@ -1,3 +1,4 @@
-.idea
-test
+.idea/
+test/
 spring-boot-web.iml
+target/
